@@ -1,7 +1,7 @@
 # NDVI viewer
 
-This version separates NDVI processing from the interactive viewer and uses
-OpenCV's built-in `COLORMAP_TURBO` instead of some rando hard-coded shit variable young stupid coder me tried do use. Yes, AI wrote the rest of this readme.
+This version separates NDVI processing from the interactive viewer. Latest Ver. uses
+OpenCV's built-in `COLORMAP_TURBO` instead of some random hard-coded variable I once used.
 
 ## Setup
 
